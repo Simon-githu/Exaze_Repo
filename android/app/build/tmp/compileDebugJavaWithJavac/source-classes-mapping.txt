@@ -1,0 +1,14 @@
+com/mobiledeveloperassassment/MainActivity.java
+ com.mobiledeveloperassassment.MainActivity
+com/mobiledeveloperassassment/BuildConfig.java
+ com.mobiledeveloperassassment.BuildConfig
+com/mobiledeveloperassassment/ReactNativeFlipper.java
+ com.mobiledeveloperassassment.ReactNativeFlipper
+ com.mobiledeveloperassassment.ReactNativeFlipper$1
+ com.mobiledeveloperassassment.ReactNativeFlipper$2
+ com.mobiledeveloperassassment.ReactNativeFlipper$2$1
+com/mobiledeveloperassassment/MainApplication.java
+ com.mobiledeveloperassassment.MainApplication
+ com.mobiledeveloperassassment.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
